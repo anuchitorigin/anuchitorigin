@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anuchitorigin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anuchit
+- 👀 I’m interested in blockchain
+- 🌱 I’m currently learning Ionic, GraphQL
+- 💞️ I’m looking to collaborate on whatever drives me crazy.
+- 📫 How to reach me -> anuchit.b@origin55.com
 
 <!---
 anuchitorigin/anuchitorigin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
