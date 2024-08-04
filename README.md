@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuchit
 - 👀 I’m interested in ChatGPT, ML and blockchain
-- 🌱 I’m currently learning Python, Ionic and GraphQL
+- 🌱 I’m currently learning Flutter, Go, Python
 - 💞️ I’m looking to collaborate with whatever drives me crazy.
 - 📫 How to reach me -> anuchit.b@origin55.com
 
