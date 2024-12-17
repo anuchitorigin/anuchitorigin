@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Anuchit, Digital Shaman.
+- 👋 Hi, I’m Andrew, Digital Shaman.
+- 🌱 My expertise is related to mechatronics and automations.
 - 👀 I’m interested in ChatGPT, AI/ML and blockchain.
-- 🌱 I’m currently learning Flutter, Go, Python and LangChain.
+- ✨ I’m currently learning Flutter, Go, Python, LangChain and Deno
 - 💞️ I’m looking to collaborate with whatever drives me crazy.
 - 📫 How to reach me -> anuchit.b@origin55.com
 
